@@ -34,7 +34,7 @@ public class AppTest
      */
     public void testApp()
     {
-    	System.out.println("Denoe jenkins");
+    	System.out.println("Git Push also done jenkins");
         assertTrue( true );
     }
 }
